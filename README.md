@@ -39,3 +39,6 @@ using this or any package. However, calibration using a hypothesized bias
 (perhaps partially informed by experimental measurement) can still be useful to
 analyze the sensitivity of downstream results to bias, a use case we will
 illustrate in a future vignette.
+
+### This code is associated with the paper from McLaren et al., "Consistent and correctable bias in metagenomic sequencing experiments". eLife, 2019. http://dx.doi.org/10.7554/eLife.46923
+
